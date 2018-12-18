@@ -1,0 +1,16 @@
+{
+  "name": "dice-rolls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "@flatten/array": "^1.1.7",
+    "js-combinatorics": "^0.5.4",
+    "lodash": "^4.17.11"
+  },
+  "script": {
+    "test": "node test.js new"
+  },
+  "author": "Arkadiusz Sygulski <arkadiusz@sygulski.pl> (https://sygulski.pl)",
+  "license": "ISC"
+}
